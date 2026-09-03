@@ -16,6 +16,12 @@ __pycache__/
 *.json
 fold*
 *.txt
+!requirements.txt
+!manifests/tcga_gdc_manifest.txt
+!manifests/tcga_gdc_manifest_fixed.txt
+!manifests/tcga_wsi_manifest.txt
+!manifests/tcga_wsi_manifest_deduped.txt
+!manifests/ebrains_uuids.txt
 # Model-weight / dataset caches (HuggingFace, etc.)
 hf_cache/
 .cache/
