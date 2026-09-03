@@ -1,0 +1,322 @@
+patient_id,Age,WHO Grade,Diagnosis,IDH1R132H,ATRX,p53,level,c1_oligo_diagnosis,c2_atrx_loss_and_p53_positive,c3_young_and_gbm,c4_diagnosis_says_mutant
+IN Brain-0002,38,3,"Brain,Corpus Collosum,Oligodendroglioma. IDH Mutant, Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0004,25,3,"Brain, Frontal lobe, Oligodendroglioma, CNS wffo, IDH Mutant, Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0007,52,3,"Brain, left temporal lobe, pleomorphic xanthoastrocytoma,CNS, Grade-3",0,retained,1,A,False,False,False,False
+IN Brain-0008,45,4,"Brain, left frontal lobe, glioblastoma No5, Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0012,29,3,"Brain, right frontal, Astrocytoma, IDH Mutant, CNS WHO Grade-3",0,Not Retained,1,C,False,True,False,True
+IN Brain-0015,37,1,"Brain, cerebellar lesion, pilocylic astrocytoma, Grade-1",0,retained,0,A,False,False,False,False
+IN Brain-0020,60,4,"Brain, Right parieto temporal, Glioblastoma, IDH – Wild Type, CNS WHO Grade 4.",0,retained,1,A,False,False,False,False
+IN Brain-0021,65,4,"Brain,Right insular SOL, Glioblastoma, IDH wildtype, Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0024,62,4,"Brain, Right Parietal lobe, Glioblastoma, IDH wild type CNS, Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0025,27,3,"Brain, frontal lobe, IDH mutant Astrocytoma, Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0029,50,4,"Brain, corpus callosum, Glioblastoma, IDH-wild type, CNS, Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0030,30,4,"Brain, frontal lobe, Astrocytoma, CNS , IDH Mutant, Grade-4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0031,5,1,"Brain, Left Temporal lobe, pilocytic Astrocytoma, Grade-1",0,retained,0,A,False,False,False,False
+IN Brain-0034,40,3,"Brain, insular cortex, Astrocytoma, CNS WHO Grade – 3",1,Not Retained,1,A,False,True,False,False
+IN Brain-0035,45,3,"Brain, Insular region, Astrocytoma, IDH - Mutant CNS WHO Grade 3.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0036,44,4,"Brain, left temporal lobe, Glioblastoma – NOS, WHO Grade – 4.",0,retained,0,A,False,False,True,False
+IN Brain-0038,44,2,"Brain, left premotor region, consistent with Oligodendroglioma, CNS WHO Grade -2 IDH Mutant.",1,retained,0,A,True,False,False,True
+IN Brain-0039,60,4,"Brain , left temporal, Glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0040,66,4,"Brain , Temporal lobe lesion, Glioblastoma, IDH wild type CNS, WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0041,61,4,"Brain, Right frontal, Glioblastoma, IDH Wild Type, CNS WHO Grade – 4",1,retained,1,A,False,False,False,False
+IN Brain-0042,34,3,"Brain , left fronto temporal, Astrocytoma, IDH Mutant, CNS WHO Grade – 3.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0044,23,4,"Brain , left temporo parietal, Astrocytoma, IDH – Mutant, CNS WHO Grade – 4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0045,33,3,"Brain, right superior frontal gyrus lesion shows features of Astrocytoma, CNS WHO grade-3",1,retained,1,A,False,False,False,False
+IN Brain-0046,25,4,"Brain , left parietal, gaint cell glioblastoma, NOS, CNS WHO Grade-4",0,Not Retained,1,C,False,True,True,False
+IN Brain-0047,26,3,"In view of absence of 1p- 19Q co-deletion on FISH studies, features are suggestive of
+Astrocytoma, IDH Mutant, CNS WHO Grade – 3.",1,retained,1,A,False,False,False,True
+IN Brain-0048,50,4,"Brain, left temporal region, Glioblastoma, IDH wild Type, CNS WHO Grade – 4.",0,retained,1,A,False,False,True,False
+IN Brain-0050,27,3,"Brain, left temporal, astrocytoma, reccurence, IDH mutant, CNS WHO Grade-3",1,retained,1,A,False,False,False,True
+IN Brain-0052,45,3,"Brain , Right lateral ventricle/corpus callosum, Astrocytoma, CNS WHO Grade-3",1,Not Retained,1,A,False,True,False,False
+IN Brain-0056,40,3,"Brain, Right frontal SOL, suggestive of Oligodendroglioma, IDH Mutant, CNS WHO Grade - 3.",1,retained,0,A,True,False,False,True
+IN Brain-0057,31,3,"Brain, right temporal, Astrocytoma, IDH Mutant, CNS WHO Grade -3.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0058,52,2,"Brain, left frontal oligodendroglioma,WHO Grade-2, IDH mutant",1,retained,0,A,True,False,False,True
+IN Brain-0059,55,4,"Brain, Left parietal lobe lesion, Glioblastoma, WHO Grade-4, IDH wild type",0,retained,0,A,False,False,False,False
+IN Brain-0060,27,3,"Brain, Right insular region, Astrocytoma, WHO Grade-3, IDH mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0061,38,4,"Brain, right parieto occipital, Glioblastoma NOS, CNS WHO Grade – 4.",0,retained,0,A,False,False,True,False
+IN Brain-0062,56,2,"Brain, Temporo-parietal, Frontal region-Astrocytoma, IDH mutant, WHO Grade-2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0063,50,4,"Brain , left parietal lesion, glioblastoma-IDH wildtype, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0064,57,3,"Brain,Left frontal lesion, oligodendroglioma,WHO Grade-3,IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0065,51,3,"Brain, Right frontal lobe, Astrocytoma NOS, WHO Grade-3",0,retained,1,A,False,False,False,False
+IN Brain-0066,48,4,"Brain, frontal region, Glioblastoma,WHO Grade-4,NOS",1,retained,1,A,False,False,True,False
+IN Brain-0067,41,3,"Brain, Temporal lesion, Anaplastic Astrocytoma, IDH Mutant(WHO Grade-3)",1,Not Retained,1,A,False,True,False,True
+IN Brain-0068,28,2,"Brain, parietal lobe, Astrocytoma,WHO Grade-2, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0069,28,3,"Brain, Left insular region, Anaplastic Astrocytoma, WHO Grade-3, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0070,60,3,"Brain, inferior parietal, Oligodendroglioma, WHO Grade-3",0,retained,0,C,True,False,False,False
+IN Brain-0071,64,4,"Brain, left temporal , glioblastoma, IDH Wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0072,65,4,"Brain, left temporal lobe, Glioblastoma, IDH Wild type, WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0073,64,4,"Brain, left temporal and sylvian area, Glioblastoma IDH Wild Type, CNS WHO Grade- 4.",0,retained,0,A,False,False,False,False
+IN Brain-0074,37,3,"Brain, Left Fronto parietal lesion, Astrocytoma, IDH Mutant, WHO Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0075,71,3,"Brain, Left temporal, Oligodendrogloma, IDH Mutant, CNS WHO Grade 3",1,retained,0,A,False,False,False,True
+IN Brain-0076,35,3,"Brain, Left insula, Basi frontal and temporal region, Astrocytoma WHO Grade-3, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0077,50,3,"Brain, Frontotemporal region, Astrocytoma, WHO Grade-3, NOS",0,retained,0,A,False,False,False,False
+IN Brain-0078,50,3,"Brain, Left occipital region, Anaplastic oligodendroglioma, IDH Mutant, WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0079,54,4,"Brain, Frontal region, Glioblastoma, IDH wild type(WHO Grade-4)",0,retained,0,A,False,False,True,False
+IN Brain-0080,54,4,"Brain, Bilateral frontal lobe, glioblastoma, WHO Grade-4, IDH wild type",0,retained,0,A,False,False,True,False
+IN Brain-0081,45,3,"Brain, Right parieto occipital region, Anaplastic oligodendroglioma, WHO Grade-3, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0082,65,4,"Brain, left fronto temporal lesion, Glioblastoma CNS WHO Grade 4.",0,retained,0,A,False,False,False,False
+IN Brain-0084,35,3,"Brain, right parietal, Astrocytoma, IDH Mutant, CNS WHO grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0085,40,4,"Brain, right frontal & parietal, Glioblastoma, IDH wild type, CNS WHO grade-4",1,retained,0,A,False,False,True,False
+IN Brain-0086,22,3,"Brain, left fronto parietal, Astrocytoma, IDH Mutant, CNS WHO Grade-3",1,retained,1,A,False,False,False,True
+IN Brain-0088,35,4,"Brain, Right frontal pole, Glioblastoma, IDH Mutant, WHO Grade-4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0089,23,3,"Brain, Left Temporal lobe, Astrocytoma, IDH Mutant, WHO Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0090,38,4,"Brain, Right frontal region, Astrocytoma, IDH Mutant, WHO Grade-4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0091,16,4,"Brain, Motor cortex, Glioblastoma, NOS, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0092,38,4,"Brain, Temporo-parietal, Glioblastoma, WHO Grade-4",0,Not Retained,0,A,False,False,True,False
+IN Brain-0093,62,4,"Brain, left occipital region, Glioblastoma, IDH Wildtype, WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0094,65,4,"Brain, left thalamus & medical temporal lobe, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0095,37,4,"Brain, Right frontal region, Glioblastoma, WHO Grade-4, NOS",0,retained,0,A,False,False,True,False
+IN Brain-0096,68,4,"Brain, Left Temporal, Glioblastoma, IDH Wild Type CNS WHO Grade 4",0,retained,1,A,False,False,False,False
+IN Brain-0097,28,3,"Brain, Left frontal region, Astrocytoma, WHO Grade-3, IDH Mutanat",1,Not Retained,1,A,False,True,False,False
+IN Brain-0098,43,4,"Brain, ? Lateral ventricle, Glioblastoma(WHO Grade-4), NOS",1,Not Retained,0,A,False,False,True,False
+IN Brain-0099,40,2,"Brain, Right insular region, Oligodendroglioma, IDH Mutant, WHO Grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0100,56,4,"Brain, left temporal lobe & Hippocampus, Glioblastoma(WHO Grade-4), IDH wild type",0,retained,0,A,False,False,False,False
+IN Brain-0101,65,4,"Brain, Right Parietal Region, Glioblastoma, IDH wild type, WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0102,58,4,"Brain, Left parietal region, Glioblastoma, IDH Wild type, WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0103,55,4,"Brain, Left parieto-occipital region, Glioblastoma, IDH Wild type, WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0104,35,2,"Brain, Fronto temporal, parietal & occipital cortex, oligodendroglioma, IDH, WHO Grade-II, gliomatosis pattern",1,retained,0,A,True,False,False,False
+IN Brain-0105,48,4,"Brain, left temporal lobe, glioblastoma-IDH Wild type, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0106,46,4,"Brain, Left temporal lobe, Glioblastoma, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0107,38,4,"Brain, Right temporal lobe, glioblastoma, NOS, Wild type,WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0108,27,3,"Brain, suprasellar region, Anaplastic Astrocytoma, IDH Mutant, Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0109,35,2,"Brain, left frontal lesion, Oligodendroglioma,IDH Mutant, WHO Grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0110,51,3,"Brain, Left frontal region, Anaplastic oligodendroglioma, IDH Mutant, WHO Grade-3 with radiation included changes",1,retained,0,A,True,False,False,True
+IN Brain-0111,56,4,"Brain, Left temporal lobe, Glioblastoma, WHO Grade-4, NOS",0,retained,0,A,False,False,False,False
+IN Brain-0112,55,3,"Brain, Right parietal, Anaplastic pleomorphic xanthoastrocytoma, CNS WHO Grade-3",1,retained,1,A,False,False,False,False
+IN Brain-0113,25,4,"Brain, Right parietal occipital / temporal region, Glioblastoma(WHO Grade-4)",0,retained,0,A,False,False,True,False
+IN Brain-0114,55,4,"Brain, right temporal lobe, glioblastoma, IDH, Wild type,WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0116,44,4,"Brain, Right frontal lobe, Glioblastoma, NOS(WHO Grade-4)",0,retained,1,A,False,False,True,False
+IN Brain-0117,45,3,"Brain, Fronto temporal, Glioblastoma(WHO Grade-3)",0,retained,0,A,False,False,False,False
+IN Brain-0118,57,4,"Brain, right P.SOL, glioblastoma, WHO Grade-4, IDH wild type",0,retained,0,A,False,False,False,False
+IN Brain-0119,60,4,"Brain, Glioblastoma, IDH wild type, WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0120,65,4,"Brain, Left temporal/parietal region, Glioblastoma, IDH wild type",0,retained,0,A,False,False,False,False
+IN Brain-0121,31,2,"Features are suggestive of diffuse Astrocytoma, WHO Grade-2, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0122,78,4,"Brain, Right parietal, Glioblastoma, IDH Wild type, CNS WHO Grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0123,24,4,"Brain, right parietal, Astrocytoma, IDH Mutant, CNS WHO grade-4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0124,26,4,"Brain, Right parieto-occipital, Astrocytoma, IDH-Mutant, CNS WHO Grade-4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0125,56,4,"Brain, Left Thalamus, Glioblastoma, IDH-wild type, CNS WHO Grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0126,40,3,"Brain, left temporal, oligodendroglioma, IDH Mutant, CNS WHO Grade-3",1,retained,1,A,True,False,False,True
+IN Brain-0128,71,4,"Brain, Right parieto occipital, Glioblastoma, IDH Wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0129,65,4,"Brain, Right occipital, Glioblastoma, CNS WHO Grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0130,45,3,"Brain, Right frontal region, Anaplstic oligodendroglioma, WHO Grade-3, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0131,60,4,"Brain, left frontal, glioblastoma, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0132,43,4,"Brain, Right occipital lesion, Glioblastoma, NOS, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0133,54,4,"Brain, Right frontal lesion, glioblastoma, IDH Wild type, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0134,70,4,"Brain, Right Frontal Region, glioblastoma, IDH Wildtype(WHO Grade-4)",0,retained,0,A,False,False,False,False
+IN Brain-0135,41,4,"Brain, Right frontal region, glioblastoma, IDH Mutant (WHO grade-4)",1,Not Retained,1,A,False,True,True,True
+IN Brain-0136,42,4,"Brain, Right temporal lobe, glioblastoma, WHO Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0137,56,4,"Brain, temporoparietal lesion, glioblastoma, WHO Grade-4, IDH wild type",0,retained,0,A,False,False,False,False
+IN Brain-0138,70,3,"Brain, corpus collosum lesion, Anaplastic oligodendroglioma, IDH Mutant(WHO Grade-3)",1,retained,0,A,True,False,False,True
+IN Brain-0139,40,4,"Brain, Right Frontal lesion, glioblastoma, IDH Mutant(WHO Grade-4)",1,retained,0,A,False,False,True,True
+IN Brain-0140,40,2,"Brain,Left frontal region, Oligodendroglioma, WHO Grade-2",1,retained,0,A,True,False,False,False
+IN Brain-0141,71,4,"Brain, ? Site, Glioblastoma, WHO grade-4, IDH wild type",0,retained,0,A,False,False,False,False
+IN Brain-0142,50,4,"Brain, Right frontal region, glioblastoma, IDH Wild type, WHO Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0143,27,2,"Brain, inferior frontal gyrus, Oligodendroglioma, IDH mutant, WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0144,50,4,"Brain, Right occipital, glioblastoma, IDH-wild type, CNS WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0145,58,4,"Brain, left fronto-parietal, glioblastoma, IDH Wild-type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0146,47,4,"Brain, Left frontal , High grade glioma",0,retained,1,A,False,False,True,False
+IN Brain-0147,39,2,"Brain, Right frontal, Oligodendroglioma, IDH Mutant, CNS WHO Grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0148,60,4,"Brain, left temporo-parietal, glioblastoma, CNS WHO grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0149,51,2,"Brain, left frontal, gemistocytic astrocytoma, CNS WHO Grade-2, IDH mutant",1,Not Retained,0,A,False,False,False,True
+IN Brain-0150,34,2,"Brain, Left frontal , astrocytoma, IDH-Mutant, CNS WHO grade-2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0151,54,4,"Brain, Right temporal , IDH wild type, Glioblastoma, CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0152,32,2,"Brain, Right insular, Astrocytoma, IDH Mutant, CNS Grade-2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0153,48,2,"Brain, Right temporal region, Oligodendroglioma, CNS WHO      Grade-2",1,retained,0,A,True,False,False,False
+IN Brain-0154,41,2,"Brain, Left Frontal Region, Oligodendroglioma, CNS WHO grade-2, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0155,52,4,"Brain, Left insular , Glioblastoma, IDH wild type, CNS WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0156,25,4,"Brain, left fronto-temporo-parietal, glioblastoma, NOS, CNS, WHO grade-4",0,Not Retained,1,C,False,True,True,False
+IN Brain-0157,48,4,"Brain, left temporo-parietal, glioblastoma, NOS, CNS, WHO grade 4",0,retained,1,A,False,False,True,False
+IN Brain-0158,48,3,"Brain, Left frontal, Astrocytoma, IDH Mutant, CNS, WHI grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0159,33,4,"Brain, left frontal, astrocytoma, IDH-Mutant, CNS WHO grade-4",1,retained,1,A,False,False,True,True
+IN Brain-0160,72,2,"Brain, Right frontal lobe, oligodendroglioma, IDH-Mutant, CNS WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0161,38,3,"Brain, Left frontal, oligodendroglioma, IDH Mutant, CNS WHO grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0162,50,3,"Brain, Left frontal, Astrocytoma, IDH Mutant, CNS, WHI grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0163,65,4,"Brain, Temporo-occipital, Glioblastoma, IDH-wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0164,64,4,"Brain,Left temporal, glioblastoma, IDH wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0165,30,3,"Brain, temporal, anaplastic astrocytoma, WHO grade-3, IDH Mutant",1,Not Retained,0,A,False,False,False,True
+IN Brain-0166,61,4,"Brain, temporal lobe, glioblastoma, WHO Grade-4, IDH-wild type",0,retained,1,A,False,False,False,False
+IN Brain-0167,55,4,"Brain, right frontal lobe, glioblastoma, WHO grade-4, IDH wild type",0,retained,1,A,False,False,False,False
+IN Brain-0168,53,4,"Brain, Frontal region, Glioblastoma, WHO Grade-4, IDH Mutant",1,Not Retained,0,A,False,False,True,True
+IN Brain-0169,45,3,"Brain, right frontal lobe, anaplastic oligodendroglioma, WHO Grade-3",1,retained,0,A,True,False,False,False
+IN Brain-0170,55,4,"Brain, (Stereotactic Biopsy) Glioblastoma (WHO Grade IV), IDH Wild Type.",0,retained,0,A,False,False,False,False
+IN Brain-0171,53,4,"Brain, Right parieto-occipital, Glioblastoma, IDH-wildtype, CNS WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0172,44,4,"Brain, Left temporal lobe, Glioblastoma, WHO Grade-4, IDH Wild Type.",0,retained,0,A,False,False,True,False
+IN Brain-0173,36,4,"Brain, Right temporal lobe, Glioblastoma, WHO Grade-4, IDH Mutant",1,Not Retained,1,A,False,True,True,True
+IN Brain-0174,37,3,"Brain, Bifrontal lobes, Anaplastic Astrocytoma (WHO Grade – 3), IDH Mutant.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0175,32,2,"Brain, Right Fronto-parietal, diffuse fibrillary astrocytoma, WHO Grade-2, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0176,51,3,"Brain, Left frontoparietal, Astrocytoma, IDH Mutant, CNS, WHO Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0178,55,3,"Brain, Right temporal lobe, Anaplastic Astrocytoma, IDH- Mutant (WHO  grade-3)",1,Not Retained,1,A,False,True,False,True
+IN Brain-0179,30,4,"Brain, Left frontal region, Glioblastoma, WHO Grade-4",1,Not Retained,1,A,False,True,True,False
+IN Brain-0180,45,2,"Brain, Right parietal region, Oligodendroglioma, WHO Grade-2, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0181,34,3,"Brain, Temporal lobe, Anaplastic astrocytoma, WHO grade-3, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0182,56,4,"Brain, left temporal, Glioblastoma, IDH-wild type, CNS WHO grade-4",0,Not Retained,0,A,False,False,False,False
+IN Brain-0183,43,4,"Brian, Temporal, Glioblastoma (WHO Grade – IV), NOS",0,retained,0,A,False,False,True,False
+IN Brain-0185,45,4,"Brain, Left. Parietooccipital Region, Glioblastoma (WHO Grade IV).",0,retained,1,A,False,False,True,False
+IN Brain-0186,38,4,"Brain, Left. Frontal Lobe, Glioblastoma (WHO Grade IV).",1,Not Retained,1,A,False,True,True,False
+IN Brain-0188,68,4,"Brain, Mesial Temporal, Glioblastoma (WHO Grade IV) IDH Wild Type.",1,retained,1,A,False,False,False,False
+IN Brain-0189,26,4,"Brian, left frontal region, Glioblastoma, WHO Grade – IV, IDH Mutant.",1,Not Retained,1,A,False,True,True,True
+IN Brain-0190,55,4,"Brain, Lt. Frontoparietal Region, Glioblastoma (WHO Grade IV) IDH Wild Type.",0,retained,0,A,False,False,False,False
+IN Brain-0191,55,2,"Brain, right frontal lesion, oligodendroglioma, IDH Mutant, CNS WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0192,63,4,"Brain, Left parieto-occippital, Glioblastoma, IDH-wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0193,45,4,"Brain, left parietal, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0194,23,3,"Brain, Left parieto-occipital, oligodendroglioma, IDH-Mutant, CNS WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0195,58,4,"Brain, Left temporo parietal region, Glioblastoma, WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0196,45,4,"Brain, Parietal, Glioblastoma, WHO Grade-4, NOS",0,retained,0,A,False,False,True,False
+IN Brain-0197,52,4,"Brain, Temporal, Glioblastoma (WHO Grade IV).",0,retained,0,A,False,False,True,False
+IN Brain-0198,47,2,"Brain, Fronto temporal, oligodendroglioma, WHO Grade-2, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0199,41,2,"Brain, frontal, oligodendroglioma, WHO Grade-2 , IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0200,35,2,"Brain, Temporal, oligodendroglioma(WHO Grade-2 ) IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0201,49,4,"Brain, Left temporal lobe, Glioblastoma, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0202,33,2,"Brain, Rt. Frontal Lobe, Oligodendroglioma (WHO Grade – II) IDH Mutant.",1,retained,0,A,True,False,False,True
+IN Brain-0203,42,2,"Brain, Frontal region, Oligodendroglioma, WHO Grade-2, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0204,55,3,"Brain, Fronto parietal region, Anaplastic Astrocytoma, WHO Grade-3, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0205,46,4,"Brain, Left thalamus, glioblastoma, WHO Grade-4, NOS",0,retained,1,A,False,False,True,False
+IN Brain-0206,50,4,"Brain, Temporo-parital, Glioblastoma, WHO Grade-4, IDH wild type",0,retained,0,A,False,False,True,False
+IN Brain-0207,40,4,"Brain, Right fronto parietal region, Glioblastoma, NOS, WHO Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0209,60,4,"Brain,Left Parlal lesion, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0210,23,3,"Brain, Left parasagittal lesion, Astrocytoma, IDH Mutant, CNS WHO grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0211,23,2,"Brain, Left insular region, oligodendroglioma, CNS WHO Grade-2",1,retained,0,A,True,False,False,False
+IN Brain-0213,40,3,"Brain, Right insular, Astrocytoma, IDH-Mutant, CNS WHO Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0214,50,2,"Brain, frontal , oligodendroglioma, WHO Grade-2",0,retained,0,C,True,False,False,False
+IN Brain-0215,19,2,"Brain, parietal, oligodendroglioma, WHO grade-2, IDH",1,retained,0,A,True,False,False,False
+IN Brain-0216,45,4,"Brain, Temporal, Glioblastoma , WHO Grade-4, NOS",0,retained,0,A,False,False,True,False
+IN Brain-0217,32,4,"Brain, Frontal, glioblastoma, WHO Grade-4 , IDH Mutant",1,Not Retained,1,A,False,True,True,True
+IN Brain-0218,38,3,"Brain, frontotemporoparietal, anaplastic oligodendroglioma, WHO Grade-3, NOS",0,retained,0,C,True,False,False,False
+IN Brain-0219,50,4,"Brain, left temporal , glioblastoma, NOS, CNS WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0220,35,2,"Brian, left Parasagittal region, Oligodendroglioma, IDH Mutant (WHO Grade – II)",1,retained,0,A,True,False,False,True
+IN Brain-0221,48,4,"Brian, occipital, Glioblastoma (WHO Grade – IV)",1,retained,1,A,False,False,True,False
+IN Brain-0222,28,3,"Brain, Parietal, Anaplastic Astrocytoma (WHO Grade III) IDH Mutant.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0223,53,4,"Brain, Frontal, Glioblastoma (WHO Grade IV) IDH Wild Type.",0,retained,0,A,False,False,True,False
+IN Brain-0224,22,2,"Brain, Temporal, Diffuse Fibrillary Astrocytoma (WHO Grade – II) IDH Mutant.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0225,38,3,"Brain, left temporal region, anaplastic astrocytoma, WHO Grade-3, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0226,55,4,"Brain, parieto occipital, glioblastoma, WHO grade-4 ,   IDH wild type",0,retained,1,A,False,False,False,False
+IN Brain-0227,37,4,"Brain, ? site, Glioblastoma (WHO Grade IV) IDH Mutant.",1,Not Retained,1,A,False,True,True,True
+IN Brain-0228,45,4,"Brain, Left frontal , glioblastoma, IDH-wildtype, CNS WHO Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0229,68,4,"Brain, multicentric, glioblastoma, IDH Wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0231,45,4,"Brain, Frontoparietal, Glioblastoma (WHO Grade IV).",1,retained,0,A,False,False,True,False
+IN Brain-0232,57,2,"Brain, right tempral lobe, oligodendroglioma, IDH-mutant, CNS WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0233,52,4,"Brain, left fronto temporal , glioblastoma, IDH-Wild type, CNS WHO Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0234,35,2,"Brain, left frontal, oligodendroglioma, IDH-Mutant , CNS WHO Grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0235,28,2,"Brain, left medial frontal, astrocytoma, IDH – mutant , CNS WHO Grade-2",1,Not Retained,0,A,False,False,False,True
+IN Brain-0236,38,3,"Brain, left frontal, astrocytoma, NOS, CNS WHO grade-3",0,retained,0,A,False,False,False,False
+IN Brain-0237,35,3,"Brain, right frontal, astrocytoma, IDH-mutant, CNS WHO grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0238,52,2,"Brain, left frontal, oligodendroglioma, IDH mutant , CNS WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0239,31,2,"Brain, left frontal, astrocytoma, IDH Mutant, CNS, WHO grade-2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0240,45,3,"Brain, frontal , anaplastic oligodendroglioma, WHO Grade-3, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0241,33,2,"Brain, posterior, gemistocytic astrocytoma, WHO grade-II",0,retained,1,A,False,False,False,False
+IN Brain-0242,47,4,"Brain, parietal , anaplastic oligodendroglioma, WHO grade-4, IDH Mutant",1,retained,0,A,True,False,True,True
+IN Brain-0243,46,3,"Brain, Temporoparietal, oligodendroglioma, WHO grade-3, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0244,47,4,"Brain, temporal lobe, Glioblastoma, NOS, WHO grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0245,56,3,"Brain, Temporal, Anaplastic Astrocytoma (WHO Grade III), IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0246,58,4,"Brain, parietal, glioblastoma, WHO Grade-4, glioblastoma, WHO Grade-4, IDH Wild type",0,retained,0,A,False,False,False,False
+IN Brain-0247,55,4,"Brian, ?site, Glioblastoma (WHO Grade – IV) IDH Wild Type.",0,retained,0,A,False,False,False,False
+IN Brain-0248,53,4,"Brain, parietooccipital , glioblastoma, WHO grade-4, IDH wild type",0,retained,0,A,False,False,True,False
+IN Brain-0249,35,2,"Brain, left frontal,astrocytoma,IDH Mutant, CNS WHO grade-2",1,Not Retained,0,A,False,False,False,True
+IN Brain-0251,42,4,"Brain, right temporal , astrocytoma, IDH-mutant , CNS WHO grade-4",1,retained,0,A,False,False,True,True
+IN Brain-0252,41,4,"Brain, right frontal, Astrocytoma, IDH-mutant, CNS WHO grade-4",1,Not Retained,1,A,False,True,True,True
+IN Brain-0253,40,3,"Brain, right cerebral, pleomorphic xantho astrocytoma, CNS WHO grade-3",0,Not Retained,1,C,False,True,False,False
+IN Brain-0254,65,4,"Brain, left cerebellum, glioblastoma, IDH-wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0255,63,4,"Brain, left parietal, Glioblastoma, IDH-wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0256,60,4,"Brain, left temporo-parietal, glioblastoma, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0257,59,4,"Brain, right post central motor gyrus, glioblastoma, IDH-wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0258,60,4,"Brain , Left parietal, glioblastoma, IDH Wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0259,34,3,"Brain, Left frontal, astrocytoma, IDH mutant, CNS WHO grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0260,28,2,"Brain, ? Site, Astrocytoma, IDH mutant, CNS WHO grade-2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0261,36,3,"Brain, bilateral frontal,oligodendroglioma,IDH Mutant , CNS WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0262,65,4,"Brain, right parietal lesion,glioblastoma, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0263,53,3,"Brain, Right parietal lesion, oligodendroglioma, CNS WHO Grade-3, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0264,35,4,"Brain, right fronto temporal, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0265,50,4,"Brain, left parietal lobe, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0266,31,3,"Brain, left temporal, astrocytoma, IDH Mutant , CNS WHO grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0267,58,4,"Brain, right paracentral lobule, Glioblastoma, IDH wild type, CNS WHO grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0268,65,4,"Brain, Right parieto occipital region, Glioblastoma, IDH wild type, CNS WHO grade-4",0,retained,1,A,False,False,False,False
+IN Brain-0269,37,2,"Brain, Right frontal & temporal lobe, Astrocytoma, CNS WHO Grade-2, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0270,45,4,"Brain, Right frontal lobe, Glioblastoma, NOS(WHO Grade-4)",0,retained,1,A,False,False,True,False
+IN Brain-0271,54,4,"Brain, right parieto occipital, astrocytoma, IDH-Mutant, CNS WHO Grade-4",1,retained,1,A,False,False,True,True
+IN Brain-0272,58,4,"Brain, right parieto occipal, glioblastoma, IDH Wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0273,63,4,"Brain, Corpus Callosum, Glioblastoma (WHO Grade – IV), IDH – Wild Type.",1,retained,0,A,False,False,False,False
+IN Brain-0274,32,3,"Brian, Motor cortex, Anaplastic Astrocytoma (WHO Grade – III) IDH mutant.",1,Not Retained,1,A,False,True,False,True
+IN Brain-0275,25,3,"Brain, left frontal, Anaplastic astrocytoma, IDH mutant, WHO grade-3",1,Not Retained,0,A,False,False,False,True
+IN Brain-0276,43,3,"Brain, thalamus, Anaplastic Astrocytoma (WHO Grade – III) NOS.",0,retained,0,A,False,False,False,False
+IN Brain-0277,67,4,"Brain, Rt. Posterior Parietal Lobe, Glioblastoma (WHO Grade IV).",0,retained,0,A,False,False,False,False
+IN Brain-0278,45,2,"Brain, frontal lobe diffuse fibillary astrocytoma, NOS,WHO Grade-2,IDH Mutation",0,Not Retained,0,A,False,False,False,False
+IN Brain-0279,26,2,"Brain, frontal, oligodendroglioma, WHO Grade-2",1,retained,0,A,True,False,False,False
+IN Brain-0280,28,3,"Brain, left insular region, anaplastic astrocytoma, who Grade-3, IDH Mutant",1,Not Retained,1,A,False,True,False,True
+IN Brain-0281,54,4,"Brain, CG Region, Glioblastoma, WHO Grade-IV, IDH wild type",0,retained,0,A,False,False,True,False
+IN Brain-0282,22,4,"Brain, parietal, glioblastoma, WHO Grade-4, IDH Wild type",0,retained,1,A,False,False,True,False
+IN Brain-0283,39,2,"Brain, frontal , oligodendroglioma, WHO Grade-2, IDH Mutant",1,retained,0,A,True,False,False,True
+IN Brain-0284,54,4,"Brain, frontal, glioblastoma, WHO Grade-4, IDH wild type",0,retained,0,A,False,False,True,False
+IN Brain-0285,35,4,"Brain, parieto-occipital,glioblastoma,WHO Grade-4, IDH Mutant",1,Not Retained,0,A,False,False,True,True
+IN Brain-0286,49,4,"Brain, frontal,glioblastoma, WHO Grade-4, IDH Wild type",0,retained,0,A,False,False,True,False
+IN Brain-0287,33,2,"Brain, Frontal, Oligodendroglioma (WHO Grade II), IDH Mutant.",1,retained,0,A,True,False,False,True
+IN Brain-0288,47,3,"Brain, ? site, Anaplastic Oligodendroglioma (WHO Grade III), IDH Mutant.",1,retained,0,A,True,False,False,True
+IN Brain-0289,39,4,"Brain, left frontal , glioblastoma, NOS, CNS, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0290,65,3,"Brain, posterior temporal, glioblastoma, IDH wild type (WHO grade-3)",0,retained,0,A,False,False,False,False
+IN Brain-0291,64,4,"Brain, Parieto Occipital, Glioblastoma (WHO Grade IV) IDH Wild Type.",0,retained,0,A,False,False,False,False
+IN Brain-0292,26,3,"Brain,Thalamus,anaplastic astrocytoma, WHO Grade-3",0,Not Retained,0,A,False,False,False,False
+IN Brain-0294,36,3,"Brain Left temporal lobe, Astrocytoma, IDH mutant, CNS WHO grade 3",1,retained,1,A,False,False,False,True
+IN Brain-0295,45,4,"Brain,Right temporal region, Glioblastoma, NOS, CNS WHO Grade-4",1,retained,0,A,False,False,True,False
+IN Brain-0296,42,2,"Brain Bifrontal, Oligodendroglioma, 1DH mutant, CNS WHO grade 2",1,retained,0,A,True,False,False,True
+IN Brain-0297,34,3,"Brain, falx cerebri, oligodendroglioma, IDH Mutant, CNS WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0298,61,4,"Brain, Right temporal lobe, glioblastoma, IDH Wild type, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0299,28,3,"Brain, Oligodendroglioma, Right Parietal Region, IDH Mutant, CNS WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0301,77,4,"Brain, Frontal, Glioblastoma, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0302,44,4,"Brain, Frontal , glioblastoma, NOS, CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0304,52,3,"Brain, Temporal, oligodendroglioma, IDH Mutant , CNS WHO grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0305,46,4,"Brain, left fronto parietal, glioblastoma, NOS, CNS WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0307,30,4,"Brain, Right temporo parietal region, Glioblastoma, CNS , WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0308,32,2,"Brain, Left frontal lobe, Oligodendroglioma, CNS WHO Grade 2, High grade glioma",1,retained,0,A,True,False,False,False
+IN Brain-0309,55,4,"Brain, Left temporal, glioblastoma, IDH wildtype, WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0310,56,4,"Brain, corpus collosum, glioblastoma, IDH wild type, CNS, WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0311,63,4,"Brain, Left frontal lobe, Glioblastoma, CNS WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0312,38,4,"Brain, Basifrontal, Glioblastoma, IDH wild type, CNS WHO grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0313,39,2,"Brain, frontal, Astrocytoma, IDH mutant, CNS , WHO grade-2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0314,70,4,"Brain, frontal, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0316,46,3,"Brain, oligodendroglioma, IDH Mutant, CNS WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0317,58,4,"Brain, corpus collosum, glioblastoma, IDH wild type, CNS, WHO grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0318,37,2,"Brain, Frontal region, oligodendroglioma, IDH mutant, CNS WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0319,53,4,"Brain, parietal lobe, glioblastoma , CNS , WHO grade-4, IDH mild type",0,retained,1,A,False,False,True,False
+IN Brain-0320,56,3,"Brain, medial temporal lobe, oligodendroglioma, IDH Mutant, CNS WHO Grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0321,41,2,"Brain, frontal lobe, astrocytoma, IDH Mutant, CNS WHO grade-2",1,Not Retained,0,A,False,False,False,True
+IN Brain-0322,55,4,"Brain, ? Site , glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,False,False
+IN Brain-0323,47,4,"Brain, left parieto occipital region, glioblastoma, IDH wild type, CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0324,36,4,"Brain, Fronto temporal region, glioblastoma, IDH Wild type, WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0325,40,3,"Brain, Insular region, Astrocytoma, IDH Mutant, CNS WHO Grade-3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0326,66,3,"Brain, Right frontal region, oligodendroglioma, IDH Mutant , CNS WHO grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0327,39,4,"Brain, left parieto-occipital region, glioblastoma, NOS, CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0328,55,4,"Brain, Parietal,Glioblastoma, IDH Mutant, CNS WHO Grade-4",1,retained,1,A,False,False,False,True
+IN Brain-0329,32,2,"Brain, fronto parietal , oligodendroglioma, IDH Mutant , CNS, WHO Grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0330,63,3,"Brain, Frontal region, oligodendroglioma, IDH mutant, CNS WHO grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0331,46,2,"Brain frontal Astrocytoma, CNS WHO grade-2 IDH Mutant",1,retained,1,A,False,False,False,True
+IN Brain-0334,40,2,"Brain, left temporal region, oligodendroglioma, IDH mutant CNS WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0335,37,2,"Brain, frontal  lobe lesion oligodendroglioma CNS WHO grade-2, 1DH mutant",1,retained,0,A,True,False,False,True
+IN Brain-0338,58,4,"Brain, right temporal SOL- DH glioblastoma, wild type CNS WHO grade -4",0,retained,1,A,False,False,False,False
+IN Brain-0339,42,4,"Brain left parietal glioma -gliomablastoma, IDH wild type CNS WHO grade -4",0,retained,1,A,False,False,True,False
+IN Brain-0340,45,3,Brain invasular region oligodendroglioma CNS WHO grade -3,1,retained,0,A,True,False,False,False
+IN Brain-0341,50,4,"Brain left posterior temporal region, glioblastoma, IHD wild type, CNS WHO grade 4",0,retained,0,A,False,False,True,False
+IN Brain-0342,45,4,"Brain, right parietal region glioblastoma IDH wild type CNS WHO grade-4",0,retained,1,A,False,False,True,False
+IN Brain-0343,29,3,Brain left frontal region – Astrocytoma CNS WHO grade 3,1,retained,1,A,False,False,False,False
+IN Brain-0344,28,4,"Brain, left luperior temporal gyma glioblastoma NOS, CNS WHO grade 4",1,retained,0,A,False,False,True,False
+IN Brain-0345,53,3,"Brain , right premotor area oligodendroglioma, CNS WHO grade 3",1,retained,0,A,True,False,False,False
+IN Brain-0346,60,4,"Brain, right temporal region glioblastoma, IDH wild type CNS WHO grade 4",0,retained,0,A,False,False,False,False
+IN Brain-0347,54,4,"Brain, left temporo parietal region, Glioblastoma, wild type CNS WHO Grade-4",0,retained,0,A,False,False,True,False
+IN Brain-0348,48,3,"Brain, temporal region oligodendroglioma, IDH mutant, CNS WHO grade -3",1,retained,0,A,True,False,False,True
+IN Brain-0349,63,2,"Brain, left frontal region, oligodendroglioma, IDH Mutant, CNS, WHO grade-2",1,retained,0,A,True,False,False,True
+IN Brain-0351,70,4,"Brain, Astrocytoma IDH mutant, CNS WHO grade 4",1,retained,1,A,False,False,False,True
+IN Brain-0352,33,3,"Brain, left frontal region, oligodendroglioma, IDH Mutant, CNS, WHO grade-3",1,retained,0,A,True,False,False,True
+IN Brain-0353,39,2,"Brain, frontal region Astrocytoma, IDH mutant CNS WHO grade 2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0354,66,4,"Brain ? (site) Glioblastoma, IDH Wild Type - CNS WHO Grade 4.",0,retained,1,A,False,False,False,False
+IN Brain-0355,55,4,"Brain , region glioblastoma 10% wild type CNS WHO grade 4",0,retained,1,A,False,False,False,False
+IN Brain-0356,62,4,"Brain, frontal region glioblastoma, IDH wild type, CNS WHO grade 4",0,retained,1,A,False,False,False,False
+IN Brain-0358,35,2,"Brain, left frontal – Astrocytoma, IDH mutant CNS WHO grade 2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0359,49,3,"Brain, left thalamus, oligodendroglima NOS CNS WHO grade -3",1,retained,0,A,False,False,False,False
+IN Brain-0360,77,4,"Brain temporal glioblastoma, IDH wild type CNS WHO grade 4",0,retained,1,A,False,False,False,False
+IN Brain-0361,26,3,"Brain , frontal region : Features are in tumonr of Oligodendroglioma NOS, CNS WHO Grade 3",0,retained,1,C,True,False,False,False
+IN Brain-0363,42,4,"Brain, parietal : Features are consistent with Astrocytoma IDH mutant, CNS WHO grade -4",1,Not Retained,0,A,False,False,True,True
+IN Brain-0364,50,4,"Brain, parieto Temporal region Glioblastoma, IDH Wild Type, CNS WHO Grade 4.",0,retained,1,A,False,False,True,False
+IN Brain-0365,40,2,"Brain, frontal : Features are consistent with Astrocytoma, IDH mutant CNS WHO grade -2",1,Not Retained,1,A,False,True,False,True
+IN Brain-0366,47,4,"Brain, temporal, lobe Glioblastoma, NOS, CNS WHO Grade 4.",0,retained,1,A,False,False,True,False
+IN Brain-0367,38,4,"Brain, frontoparietal :- Giant Cell Glioblastoma, CNS WHO Grade 4 , NOS.",0,retained,1,A,False,False,True,False
+IN Brain-0368,50,4,"features are consistent with Glioblastoma, IDH Wild Type CNS WHO Grade 4.",0,retained,1,A,False,False,True,False
+IN Brain-0369,40,3,"Astrocytoma, IDH Mutant CNS WHO Grade 3",1,Not Retained,1,A,False,True,False,True
+IN Brain-0370,52,4,"Brain, temporal features are in tumor of glioblastoma NOS,CNS  WHO Grade 4",0,retained,1,A,False,False,True,False

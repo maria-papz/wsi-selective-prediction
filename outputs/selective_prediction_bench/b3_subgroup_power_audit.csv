@@ -1,0 +1,8 @@
+axis,contrast,nA,nB,mde_proportion,mde_auroc_conservative,adequate_for_0.05_gap,adequate_for_vaidya_0.16_gap
+sex,female - male,290,396,0.10826530596387589,0.12538035778596301,False,True
+age,20-39 - rest,210,472,0.11619444938404161,0.17394029490219728,False,False
+age,40-54 - rest,213,469,0.11574168639333644,0.13479570556165063,False,True
+age,55-69 - rest,186,496,0.1204394375244099,0.16179118863083847,False,False
+age,70+ - rest,73,609,0.17349859115674832,0.312157106784224,False,False
+race,white - black or african american,612,44,0.21863702637722812,0.2682560399900582,False,False
+race,white - non-white (pooled),612,44,0.21863702637722812,0.2682560399900582,False,False

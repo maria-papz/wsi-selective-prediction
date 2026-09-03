@@ -1,0 +1,7 @@
+metric,gains,losses
+specificity,155,0
+ppv,46,0
+balanced_accuracy,28,0
+accuracy,16,0
+sensitivity,16,69
+f1,13,1

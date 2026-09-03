@@ -1,0 +1,7 @@
+family,gains,losses
+deep_ensemble,50,14
+epistemic,18,23
+laplace,60,14
+mc_dropout,58,10
+ood,24,0
+predictive,64,9

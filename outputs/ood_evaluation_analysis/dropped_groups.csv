@@ -1,0 +1,106 @@
+variable,encoder,level,n_ebrains,n_tcga,reason
+tumour_type,uni2,unknown,0,35,n < 15 on at least one side
+tumour_type,conch,unknown,0,35,n < 15 on at least one side
+tumour_type,hoptimus,unknown,0,35,n < 15 on at least one side
+sex,uni2,not reported,0,1,n < 15 on at least one side
+sex,uni2,,1,0,n < 15 on at least one side
+sex,conch,not reported,0,1,n < 15 on at least one side
+sex,conch,,1,0,n < 15 on at least one side
+sex,hoptimus,not reported,0,1,n < 15 on at least one side
+sex,hoptimus,,1,0,n < 15 on at least one side
+age_band,uni2,<20,7,5,n < 15 on at least one side
+age_band,uni2,,4,1,n < 15 on at least one side
+age_band,conch,<20,7,5,n < 15 on at least one side
+age_band,conch,,4,1,n < 15 on at least one side
+age_band,hoptimus,<20,7,5,n < 15 on at least one side
+age_band,hoptimus,,4,1,n < 15 on at least one side
+site,uni2,International Genomics Consortium,641,2,n_tcga < 15
+site,uni2,UNC,641,1,n_tcga < 15
+site,uni2,Johns Hopkins,641,7,n_tcga < 15
+site,uni2,Huntsman Cancer Institute,641,8,n_tcga < 15
+site,uni2,CHI-Penrose Colorado,641,2,n_tcga < 15
+site,uni2, John Wayne Cancer Center,641,2,n_tcga < 15
+site,uni2,University of Miami,641,3,n_tcga < 15
+site,uni2,MD Anderson,641,5,n_tcga < 15
+site,uni2,Cedars Sinai,641,9,n_tcga < 15
+site,uni2,Cureline,641,14,n_tcga < 15
+site,uni2,St. Joseph's Hospital AZ,641,3,n_tcga < 15
+site,uni2,Asterand,641,2,n_tcga < 15
+site,uni2,University of Kansas,641,1,n_tcga < 15
+site,uni2,MSKCC,641,14,n_tcga < 15
+site,uni2,Greenville Health System,641,1,n_tcga < 15
+site,uni2,University of California San Francisco,641,7,n_tcga < 15
+site,uni2,Christiana Healthcare,641,10,n_tcga < 15
+site,uni2,University of North Carolina,641,1,n_tcga < 15
+site,uni2,Hartford,641,2,n_tcga < 15
+site,conch,International Genomics Consortium,641,2,n_tcga < 15
+site,conch,UNC,641,1,n_tcga < 15
+site,conch,Johns Hopkins,641,7,n_tcga < 15
+site,conch,Huntsman Cancer Institute,641,8,n_tcga < 15
+site,conch,CHI-Penrose Colorado,641,2,n_tcga < 15
+site,conch, John Wayne Cancer Center,641,2,n_tcga < 15
+site,conch,University of Miami,641,3,n_tcga < 15
+site,conch,MD Anderson,641,5,n_tcga < 15
+site,conch,Cedars Sinai,641,9,n_tcga < 15
+site,conch,Cureline,641,14,n_tcga < 15
+site,conch,St. Joseph's Hospital AZ,641,3,n_tcga < 15
+site,conch,Asterand,641,2,n_tcga < 15
+site,conch,University of Kansas,641,1,n_tcga < 15
+site,conch,MSKCC,641,14,n_tcga < 15
+site,conch,Greenville Health System,641,1,n_tcga < 15
+site,conch,University of California San Francisco,641,7,n_tcga < 15
+site,conch,Christiana Healthcare,641,10,n_tcga < 15
+site,conch,University of North Carolina,641,1,n_tcga < 15
+site,conch,Hartford,641,2,n_tcga < 15
+site,hoptimus,International Genomics Consortium,641,2,n_tcga < 15
+site,hoptimus,UNC,641,1,n_tcga < 15
+site,hoptimus,Johns Hopkins,641,7,n_tcga < 15
+site,hoptimus,Huntsman Cancer Institute,641,8,n_tcga < 15
+site,hoptimus,CHI-Penrose Colorado,641,2,n_tcga < 15
+site,hoptimus, John Wayne Cancer Center,641,2,n_tcga < 15
+site,hoptimus,University of Miami,641,3,n_tcga < 15
+site,hoptimus,MD Anderson,641,5,n_tcga < 15
+site,hoptimus,Cedars Sinai,641,9,n_tcga < 15
+site,hoptimus,Cureline,641,14,n_tcga < 15
+site,hoptimus,St. Joseph's Hospital AZ,641,3,n_tcga < 15
+site,hoptimus,Asterand,641,2,n_tcga < 15
+site,hoptimus,University of Kansas,641,1,n_tcga < 15
+site,hoptimus,MSKCC,641,14,n_tcga < 15
+site,hoptimus,Greenville Health System,641,1,n_tcga < 15
+site,hoptimus,University of California San Francisco,641,7,n_tcga < 15
+site,hoptimus,Christiana Healthcare,641,10,n_tcga < 15
+site,hoptimus,University of North Carolina,641,1,n_tcga < 15
+site,hoptimus,Hartford,641,2,n_tcga < 15
+model,uni2,SS1552CNTLR,641,10,n_tcga < 15
+model,uni2,SS1540CNTLR,641,11,n_tcga < 15
+model,uni2,,641,19,n_tcga < 15
+model,uni2,SS1475,641,1,n_tcga < 15
+model,uni2,SS1402,641,1,n_tcga < 15
+model,uni2,SS1546,641,4,n_tcga < 15
+model,uni2,SS7095,641,3,n_tcga < 15
+model,uni2,SS1248CNTLR,641,2,n_tcga < 15
+model,conch,SS1552CNTLR,641,10,n_tcga < 15
+model,conch,SS1540CNTLR,641,11,n_tcga < 15
+model,conch,,641,19,n_tcga < 15
+model,conch,SS1475,641,1,n_tcga < 15
+model,conch,SS1402,641,1,n_tcga < 15
+model,conch,SS1546,641,4,n_tcga < 15
+model,conch,SS7095,641,3,n_tcga < 15
+model,conch,SS1248CNTLR,641,2,n_tcga < 15
+model,hoptimus,SS1552CNTLR,641,10,n_tcga < 15
+model,hoptimus,SS1540CNTLR,641,11,n_tcga < 15
+model,hoptimus,,641,19,n_tcga < 15
+model,hoptimus,SS1475,641,1,n_tcga < 15
+model,hoptimus,SS1402,641,1,n_tcga < 15
+model,hoptimus,SS1546,641,4,n_tcga < 15
+model,hoptimus,SS7095,641,3,n_tcga < 15
+model,hoptimus,SS1248CNTLR,641,2,n_tcga < 15
+race,uni2,asian,641,12,n_tcga < 15
+race,uni2,american indian or alaska native,641,1,n_tcga < 15
+race,uni2,Unknown,641,5,n_tcga < 15
+race,conch,asian,641,12,n_tcga < 15
+race,conch,american indian or alaska native,641,1,n_tcga < 15
+race,conch,Unknown,641,5,n_tcga < 15
+race,hoptimus,asian,641,12,n_tcga < 15
+race,hoptimus,american indian or alaska native,641,1,n_tcga < 15
+race,hoptimus,Unknown,641,5,n_tcga < 15

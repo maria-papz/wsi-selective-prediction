@@ -1,0 +1,5 @@
+combo,gains,losses
+cutoff_only_local,44,3
+external,32,4
+fully_local,115,24
+threshold_only_local,83,39

@@ -1,0 +1,40 @@
+# Raw and processed data (multi-terabyte, not redistributable per cohort
+# data-use terms — see README.md "Data and results availability")
+data/
+
+# Python environments and package caches
+venv/
+miniconda3/
+pip_cache/
+__pycache__/
+*.pyc
+*.egg-info/
+*.npz
+*.log
+*.logs
+*.ckpt
+*.json
+fold*
+*.txt
+# Model-weight / dataset caches (HuggingFace, etc.)
+hf_cache/
+.cache/
+
+# Experiment tracking logs
+wandb/
+
+# Credentials — never commit
+data_prep/.env
+*.env
+
+# Thesis source, kept locally for reference only, not published alongside the code
+Master_Research_Project_Template___Medical_Physics_and_Biomedical_Engineering_UCL__1_/
+Master_Research_Project_Template___Medical_Physics_and_Biomedical_Engineering_UCL__1_.zip
+__MACOSX/
+
+# Private planning/drafting notes, not part of the released repo
+TRIPODAI_checklist.pdf
+
+# OS/editor cruft
+.DS_Store
+*.swp

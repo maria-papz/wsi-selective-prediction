@@ -1,0 +1,15 @@
+variable,in_ebrains,in_tcga,n_unique_ebrains,n_unique_tcga,constant,note
+tumour_type,1923,11835,3,4,False,
+idh_status,1923,11835,2,2,False,
+sex,1920,11835,2,3,False,
+age,1911,11820,72,72,False,
+grade,1923,0,3,0,False,
+race,0,11835,0,6,False,
+site,0,11835,0,34,False,
+objective_power,0,11835,0,2,False,
+model,0,11550,0,18,False,
+mpp_x,0,11835,0,23,False,
+vendor,0,11835,0,1,True,CONSTANT -- excluded from analysis
+idh_codel,0,11655,0,3,False,
+brain_region,0,11835,0,1,True,CONSTANT -- excluded from analysis
+n_dx_slides_total,0,11835,0,10,False,

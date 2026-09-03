@@ -1,0 +1,16 @@
+variable,encoder,level,n_ebrains,n_tcga,reason
+tumour_type,uni2,unknown,0,35,n < 15 on at least one side
+tumour_type,conch,unknown,0,35,n < 15 on at least one side
+tumour_type,hoptimus,unknown,0,35,n < 15 on at least one side
+sex,uni2,not reported,0,1,n < 15 on at least one side
+sex,uni2,nan,1,0,n < 15 on at least one side
+sex,conch,not reported,0,1,n < 15 on at least one side
+sex,conch,nan,1,0,n < 15 on at least one side
+sex,hoptimus,not reported,0,1,n < 15 on at least one side
+sex,hoptimus,nan,1,0,n < 15 on at least one side
+age_band,uni2,<20,7,5,n < 15 on at least one side
+age_band,uni2,nan,4,1,n < 15 on at least one side
+age_band,conch,<20,7,5,n < 15 on at least one side
+age_band,conch,nan,4,1,n < 15 on at least one side
+age_band,hoptimus,<20,7,5,n < 15 on at least one side
+age_band,hoptimus,nan,4,1,n < 15 on at least one side

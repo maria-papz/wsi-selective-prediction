@@ -1,0 +1,7 @@
+dataset,encoder,n_rows,n_unique_cases,folds_present,min_cases_per_fold,max_cases_per_fold,min_folds_per_case,max_folds_per_case
+ebrains,conch,641,641,"[0, 1, 2, 3, 4]",128,129,1,1
+ebrains,hoptimus,641,641,"[0, 1, 2, 3, 4]",128,129,1,1
+ebrains,uni2,641,641,"[0, 1, 2, 3, 4]",128,129,1,1
+tcga,conch,3945,789,"[0, 1, 2, 3, 4]",789,789,5,5
+tcga,hoptimus,3945,789,"[0, 1, 2, 3, 4]",789,789,5,5
+tcga,uni2,3945,789,"[0, 1, 2, 3, 4]",789,789,5,5

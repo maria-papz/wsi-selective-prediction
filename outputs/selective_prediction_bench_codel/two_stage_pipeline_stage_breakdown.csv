@@ -1,0 +1,4 @@
+target_coverage,stage1_deferred_pct,stage1_deferred_n,stage1_retained_n,stage1_terminal_wt_n,stage1_terminal_wt_accuracy,stage1_fp_wrong_pathway_n,proceeds_to_stage2_n,excluded_no_codel_data_n,stage2_deferred_pct_of_proceeds,stage2_deferred_n,stage2_retained_n,stage2_accuracy
+0.9,0.16011644832605532,110,577,310,0.9129032258064517,17,250,0,0.124,31,219,0.8356164383561644
+0.8,0.23726346433770015,163,524,288,0.9375,11,225,0,0.22666666666666666,51,174,0.9022988505747126
+0.7,0.3624454148471616,249,438,243,0.9670781893004116,7,188,0,0.2925531914893617,55,133,0.8872180451127819

@@ -1,0 +1,54 @@
+stratum,group,n,n_idh_mutant,n_idh_wildtype,pct_idh_mutant,pct_idh_wildtype,age_median,age_q1,age_q3,pct_male
+Overall,All usable cases,789,418,371,53.0%,47.0%,49,36,60,58.0%
+Project,TCGA-GBM,304,22,282,7.2%,92.8%,59,50,68,62.8%
+Project,TCGA-LGG,485,396,89,81.6%,18.4%,41,33,53,55.1%
+Race,White,708,388,320,54.8%,45.2%,49,36,60,58.2%
+Race,Black/AA,45,15,30,33.3%,66.7%,53,43,66,53.3%
+Race,Asian,12,6,6,50.0%,50.0%,48,34,52,66.7%
+Race,AIAN,1,0,1,0.0%,100.0%,47,47,47,100.0%
+Race,Not reported,18,5,13,27.8%,72.2%,59,46,69,55.6%
+Race,Unknown,5,4,1,80.0%,20.0%,33,31,47,60.0%
+Sex,Male,458,234,224,51.1%,48.9%,50,36,61,100.0%
+Sex,Female,330,183,147,55.5%,44.5%,48,36,59,0.0%
+Sex,Not reported,1,1,0,100.0%,0.0%,?,?,?,0.0%
+Site,Henry Ford Hospital,173,65,108,37.6%,62.4%,55,43,64,55.5%
+Site,Case Western - St Joes,103,82,21,79.6%,20.4%,38,30,54,59.2%
+Site,Case Western,69,34,35,49.3%,50.7%,51,37,62,52.2%
+Site,Duke,59,15,44,25.4%,74.6%,55,45,63,55.9%
+Site,Dept of Neurosurgery at University of Heidelberg,48,42,6,87.5%,12.5%,42,35,52,60.4%
+Site,Mayo Clinic - Rochester,37,33,4,89.2%,10.8%,37,31,54,59.5%
+Site,MD Anderson Cancer Center,37,4,33,10.8%,89.2%,50,40,59,54.1%
+Site,UCSF,28,1,27,3.6%,96.4%,59,50,69,67.9%
+Site,University of Florida,27,15,12,55.6%,44.4%,52,43,65,66.7%
+Site,Emory University,21,2,19,9.5%,90.5%,61,54,69,66.7%
+Site,Fondazione-Besta,21,17,4,81.0%,19.0%,43,38,52,52.4%
+Site,The University of New South Wales,19,15,4,78.9%,21.1%,40,32,45,68.4%
+Site,Thomas Jefferson University,19,14,5,73.7%,26.3%,43,38,50,52.6%
+Site,University of Sao Paulo,17,16,1,94.1%,5.9%,36,29,39,58.8%
+Site,"Milan - Italy, Fondazione IRCCS Instituto Neuroligico C. Besta",17,1,16,5.9%,94.1%,57,52,63,64.7%
+Site,Cureline,14,13,1,92.9%,7.1%,44,36,54,28.6%
+Site,MSKCC,14,13,1,92.9%,7.1%,38,35,42,78.6%
+Site,Christiana Healthcare,10,2,8,20.0%,80.0%,64,59,80,80.0%
+Site,Cedars Sinai,9,0,9,0.0%,100.0%,61,48,73,44.4%
+Site,Huntsman Cancer Institute,8,6,2,75.0%,25.0%,40,31,51,50.0%
+Site,University of California San Francisco,7,7,0,100.0%,0.0%,45,42,46,57.1%
+Site,Johns Hopkins,7,7,0,100.0%,0.0%,34,28,42,57.1%
+Site,MD Anderson,5,5,0,100.0%,0.0%,50,46,52,40.0%
+Site,University of Miami,3,0,3,0.0%,100.0%,61,58,65,66.7%
+Site,St. Joseph's Hospital AZ,3,0,3,0.0%,100.0%,55,53,64,66.7%
+Site,CHI-Penrose Colorado,2,0,2,0.0%,100.0%,48,41,56,100.0%
+Site, John Wayne Cancer Center,2,2,0,100.0%,0.0%,40,38,42,50.0%
+Site,International Genomics Consortium,2,1,1,50.0%,50.0%,38,31,44,50.0%
+Site,Asterand,2,2,0,100.0%,0.0%,39,36,42,100.0%
+Site,Hartford,2,1,1,50.0%,50.0%,36,31,40,50.0%
+Site,University of North Carolina,1,0,1,0.0%,100.0%,68,68,68,100.0%
+Site,University of Kansas,1,1,0,100.0%,0.0%,47,47,47,100.0%
+Site,UNC,1,1,0,100.0%,0.0%,47,47,47,0.0%
+Site,Greenville Health System,1,1,0,100.0%,0.0%,65,65,65,100.0%
+Brain region,Cerebrum,343,283,60,82.5%,17.5%,42,33,54,56.0%
+Brain region,Brain NOS,234,54,180,23.1%,76.9%,58,47,68,57.7%
+Brain region,Not reported,196,69,127,35.2%,64.8%,52,38,62,62.2%
+Brain region,Frontal lobe,7,4,3,57.1%,42.9%,51,44,58,57.1%
+Brain region,Temporal lobe,7,6,1,85.7%,14.3%,30,27,32,57.1%
+Brain region,Occipital lobe,1,1,0,100.0%,0.0%,38,38,38,100.0%
+Brain region,Parietal lobe,1,1,0,100.0%,0.0%,44,44,44,0.0%
