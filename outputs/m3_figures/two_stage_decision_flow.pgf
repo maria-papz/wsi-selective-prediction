@@ -1376,7 +1376,7 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=3.326802in,y=6.256327in,,]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}True label: mutant?}}%
+\pgftext[x=3.326802in,y=6.256327in,,]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Was Stage 1 correct?}}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.211765,0.101961,0.329412}%
@@ -1400,13 +1400,19 @@
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=6.694166in, y=6.126423in, left, base]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Counted incorrect regardless of Stage 2}}%
+\pgftext[x=6.449353in, y=6.126423in, left, base]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}Scored as an automated error; Stage 2 not run}}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
 \pgfsetstrokecolor{textcolor}%
 \pgfsetfillcolor{textcolor}%
-\pgftext[x=3.326802in,y=5.373304in,,]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}True positive -- proceeds to Stage 2}}%
+\pgftext[x=2.514634in, y=5.418718in, left, base]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}True positive: Stage 2 is}}%
+\end{pgfscope}%
+\begin{pgfscope}%
+\definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%
+\pgfsetstrokecolor{textcolor}%
+\pgfsetfillcolor{textcolor}%
+\pgftext[x=2.233702in, y=5.251849in, left, base]{\color{textcolor}{\rmfamily\fontsize{10.500000}{12.600000}\selectfont\catcode`\^=\active\def^{\ifmmode\sp\else\^{}\fi}\catcode`\%=\active\def%{\%}computed only for these patients}}%
 \end{pgfscope}%
 \begin{pgfscope}%
 \definecolor{textcolor}{rgb}{0.000000,0.000000,0.000000}%

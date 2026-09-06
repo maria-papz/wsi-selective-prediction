@@ -85,6 +85,9 @@ for ax, metric in zip(axes.ravel(), METRICS):
 
     vmax = np.nanmax(np.abs(grid)) if np.isfinite(grid).any() else 1.0
     im = ax.imshow(grid, cmap=UCL_SEQ, vmin=0, vmax=vmax, aspect="auto")
+    cbar = fig.colorbar(im, ax=ax, fraction=0.046, pad=0.04)
+    cbar.set_label(f"$\\Delta$ {METRIC_LABEL[metric]} vs. no abstention", fontsize=9)
+    cbar.ax.tick_params(labelsize=8)
 
     for pi, pred in enumerate(PREDICTORS):
         for fi, fam in enumerate(FAMILIES):

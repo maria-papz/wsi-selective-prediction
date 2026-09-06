@@ -130,14 +130,16 @@ def main():
     y = drop(RECT_H)
     rect(y, "Predicted mutant", fc=STATE_FC, ec=STATE_EC)
 
-    # --- Decision 3: predicted-mutant vs. true label ---
+    # --- Decision 3: scoring-only check, not a pipeline branch -- a deployed
+    # system has no access to true IDH status and would send every predicted-
+    # mutant patient to Stage 2 regardless of whether that call is correct ---
     y = drop(DIAMOND_H)
-    decision(y, "True label: mutant?",
+    decision(y, "Was Stage 1 correct?",
              yes_side="down",
-             side_text="False positive (actually wildtype)\nCounted incorrect regardless of Stage 2",
+             side_text="False positive (actually wildtype)\nScored as an automated error; Stage 2 not run",
              side_style=(COUNTED_FC, COUNTED_EC, False), ground_truth=True)
     y = drop(RECT_H)
-    rect(y, "True positive -- proceeds to Stage 2", fc=STATE_FC, ec=STATE_EC)
+    rect(y, "True positive: Stage 2 is\ncomputed only for these patients", fc=STATE_FC, ec=STATE_EC)
 
     stage1_bottom = cursor[0] - 0.1
     stage_band(ax, band_x_left, band_x_right, stage1_bottom, stage1_top,
